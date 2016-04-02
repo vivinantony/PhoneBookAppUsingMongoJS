@@ -1,0 +1,17 @@
+{
+  "name": "PhoneBookApp",
+  "description": "Contact details",
+  "authors": [
+    "vivinantony <thelittletechie@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vivinantony"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0"
+  }
+}
